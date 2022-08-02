@@ -2,15 +2,15 @@
   Documentação sobre forEach(): 
     https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
-  Usando forEach():
-    1. Crie uma função chamada dobraOsValores;
-    2. Essa função recebe um array de números como parâmetro;
-    3. A função então retorna uma novo array com os números dobrados; 
-
   Dicas:
     1. forEach passa por cada item de um array
     2. forEach não retorna nada;
     3. Deixe sua função genérica para que ela aceite qualquer array;
+
+  Usando forEach():
+    1. Crie uma função chamada dobraOsValores;
+    2. Essa função recebe um array de números como parâmetro;
+    3. A função então retorna uma novo array com os números dobrados; 
 */
 
 const numeros = [2, 4, 17, 31, 5, 111, 13];
