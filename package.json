@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^28.1.3"
+  },
+  "name": "hofs-exercicios",
+  "description": "Exercícios de Higher Order Functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "coverage": "npm test -- --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinibortoletto/hofs-exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinibortoletto/hofs-exercicios/issues"
+  },
+  "homepage": "https://github.com/vinibortoletto/hofs-exercicios#readme"
+}
