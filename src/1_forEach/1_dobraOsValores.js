@@ -18,5 +18,3 @@ const numeros = [2, 4, 17, 31, 5, 111, 13];
 // Retorno esperado: [4, 8, 34, 62, 10, 222, 26]
 
 // Crie sua função aqui
-
-module.exports = dobraOsValores;

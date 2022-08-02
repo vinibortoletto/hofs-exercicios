@@ -18,5 +18,3 @@ const numeros = [5, 2, 7, 8, 22, 14, 51, 32];
 // Retorno esperado: [2, 8, 22, 14, 32]
 
 // Crie sua função aqui
-
-module.exports = pegaNumerosPares;
