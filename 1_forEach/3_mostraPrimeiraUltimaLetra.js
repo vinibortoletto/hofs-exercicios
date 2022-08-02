@@ -11,7 +11,6 @@
     1. forEach passa por cada item de um array
     2. forEach não retorna nada;
     3. Deixe sua função genérica para que ela aceite qualquer array;
-    4. Não modifique diretamente o array recebido como parâmetro;
 */
 
 const nomes = ['Lineuzinho', 'Dona Nenê', 'Tuco', 'Bebel', 'Agostinho'];
