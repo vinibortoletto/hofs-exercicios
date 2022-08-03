@@ -1,4 +1,4 @@
-const alunes = [
+const alunos = [
   {
     nome: 'Chaves',
     nota: 8,
@@ -19,16 +19,16 @@ const alunes = [
     nota: 7,
   },
 ];
-// Retorno esperado: 'Todos os alunes foram aprovados'
+// Retorno esperado: 'Todos os alunos foram aprovados'
 
-const validaAlunes = (array) => {
-  // Verifica se algum alune possui nota menor que 5
-  if (array.some((alune) => alune.nota < 5)) {
-    return 'Nem todos os alunes foram aprovados';
+const validaAlunos = (array) => {
+  // Verifica se algum aluno possui nota menor que 5
+  if (array.some((aluno) => aluno.nota < 5)) {
+    return 'Nem todos os alunos foram aprovados';
   }
 
-  // Caso todos os alunes possuam notas maiores que 5:
-  return 'Todos os alunes foram aprovados';
+  // Caso todos os alunos possuam notas maiores que 5:
+  return 'Todos os alunos foram aprovados';
 };
 
-console.log(validaAlunes(alunes));
+console.log(validaAlunos(alunos));

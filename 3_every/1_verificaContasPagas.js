@@ -5,16 +5,16 @@
   Dicas: 
   1. every() para passa por todos os itens até satisfazer sua condição;
   2. every() sempre retorna um booleano:
-    a. true: se todos os itens do array satisfazer sua condição;
-    b. false: se 1 ou mais itens do array não satisfazer sua condição;
+    - true: se todos os itens do array satisfazer sua condição;
+    - false: se 1 ou mais itens do array não satisfazer sua condição;
   3. Deixe sua função genérica para que ela aceite qualquer array; 
 
   Usando every(): 
     1. Crie uma função chamada verificaContasPagas; 
     2. Essa função recebe um array de objetos como parâmetro; 
     3. A função então retorna:
-      a. Se todas as contas estiver pagas: 'Todas as contas estão pagas'
-      b. Se pelo menos 1 conta não estiver paga: 'Algumas contas não foram pagas'
+      - Se todas as contas estiverem pagas: 'Todas as contas estão pagas'
+      - Se pelo menos 1 conta não estiver paga: 'Algumas contas não foram pagas'
 */
 
 const contas = [
