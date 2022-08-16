@@ -7,6 +7,7 @@
     2. sort() ordena os items baseado em sua condição;
     3. Por padrão, sort() ordena alfabeticamente; 
     4. sort() sempre retorna um array 
+    5. Deixe sua função genérica para que ela aceite qualquer array;
 
   Usando sort():
     1. Crie uma função chamada ordenaPaises;

@@ -5,6 +5,7 @@ const numeros = ['1', '2', '3', '4', '5', '6'];
 */
 
 const duplicaNumeros = (array) => {
+  // Mapeia o array, retornando novo array com números multiplicados
   return array.map((numero) => Number(numero) * 2);
 };
 

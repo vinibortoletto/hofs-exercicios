@@ -7,7 +7,7 @@
     2. find() sempre retorna um ELEMENTO ou UNDEFINED:
       a. elemento: retorna o primeiro item que satisfazer sua condição;
       b. undefined: se nenhum item satisfazer sua condição;
-    3. Deixe sua função genérica para que ela aceite qualquer array; 
+    3. Deixe sua função genérica para que ela aceite qualquer array;
 
   Usando find(): 
     1. Crie uma função chamada encontraPedido; 

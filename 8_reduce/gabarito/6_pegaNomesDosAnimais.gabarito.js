@@ -12,7 +12,9 @@ const animais = [
 */
 
 const pegaNomesDosAnimais = (array) => {
+  // Se nome/materia for igual info, retorna professor
   return array.reduce((acc, { nome }) => {
+    // Adiciona nome no acumulador
     acc.push(nome);
     return acc;
   }, []);

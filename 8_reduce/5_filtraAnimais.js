@@ -5,7 +5,6 @@
   Dicas:
     1. reduce() é capaz de fazer tudo o que as outras hofs fazem;
     2. reduce() retorna o que você especificar;
-    3. se não especificar seu retorno, nada será retornado;
 
   Usando reduce():
     1. Crie uma função chamada filtraCachorro;

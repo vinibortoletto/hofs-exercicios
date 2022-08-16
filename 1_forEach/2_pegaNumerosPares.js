@@ -3,8 +3,8 @@
     https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
   Dicas:
-    1. forEach passa por cada item de um array
-    2. forEach não retorna nada;
+    1. forEach() passa por cada item de um array
+    2. forEach() não retorna nada;
     3. Deixe sua função genérica para que ela aceite qualquer array;
 
   Usando forEach():

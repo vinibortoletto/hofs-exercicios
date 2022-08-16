@@ -6,7 +6,8 @@
     1. filter() pega todos os items que satisfazem um condição;
     2. filter() sempre retorna um array;
     3. se filter() não encontrar nenhum item que satisfaz sua condição, retorna um array vazio;
-
+    4. Deixe sua função genérica para que ela aceite qualquer array;
+    
   Usando filter():
     1. Crie uma função chamada filtraTechsAprendidas;
     2. Essa função recebe um parâmetro:

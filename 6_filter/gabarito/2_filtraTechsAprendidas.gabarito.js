@@ -19,6 +19,7 @@ const techs = [
 */
 
 const filtraTechsAprendidas = (array) => {
+  // Retorna e filtra apenas as techs que aprendeu
   return array.filter((tech) => tech.aprendeu);
 };
 

@@ -15,7 +15,9 @@ const animais = [
 */
 
 const filtraAnimais = (array) => {
+  // Se nome/materia for igual info, retorna professor
   return array.reduce((acc, animal) => {
+    // Se especie === 'cachorro', adiciona animal para dentro do acumulador
     if (animal.especie === 'cachorro') acc.push(animal);
     return acc;
   }, []);

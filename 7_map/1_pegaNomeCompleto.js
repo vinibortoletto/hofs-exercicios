@@ -6,6 +6,7 @@
     1. map() passa por todos os itens de um array;
     2. map() sempre retorna um novo;
     3. esse novo array é do mesmo tamanho do array mapeado;
+    4. Deixe sua função genérica para que ela aceite qualquer array;
 
   Usando map():
     1. Crie uma função chamada pegaNomeCompleto;

@@ -15,6 +15,7 @@ const pessoas = [
 */
 
 const pegaNomeCompleto = (array) => {
+  // Mapeia o array, retornando novo array de strings
   return array.map(({ nome, sobrenome }) => `${nome} ${sobrenome}`);
 };
 

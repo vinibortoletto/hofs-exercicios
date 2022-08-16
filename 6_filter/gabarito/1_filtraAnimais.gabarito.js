@@ -15,6 +15,7 @@ const animais = [
 */
 
 const filtraCachorro = (array) => {
+  // Retorna e filtra os animais comparando se espécie é igual "cachorro"
   return array.filter((animal) => animal.especie === 'cachorro');
 };
 

@@ -12,6 +12,7 @@ const animais = [
 */
 
 const pegaNomesDosAnimais = (array) => {
+  // Mapeia o array, retornando novo array com nomes dos animais
   return array.map((animal) => animal.nome);
 };
 
